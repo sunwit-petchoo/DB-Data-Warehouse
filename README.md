@@ -1,5 +1,5 @@
 # Database System
-This is my assigment for unit Database System which contains PL/SQL script for creating Stored	Procedures,	Stored	Functions and script to perform ETL operations
+This is my works for unit Database System which contains PL/SQL script for creating Stored	Procedures,	Stored	Functions and script to perform ETL operations
 - Create	a	data	warehouse.
 - Extracting	data	from	source	tables.
 - Transforming	and	cleaning	the	data,	logging	all	changes.
