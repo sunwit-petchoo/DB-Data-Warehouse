@@ -6,7 +6,7 @@ This is my assigment for unit Database System which contains PL/SQL script for c
 - Loading	the	data	into	a	data	warehouse.
 
 # SOURCE	DATA	TABLES
-A2PRODUCT         A2SALEMELB          A2CUSTCATEGORY
+A2PRODUCT                       A2SALEMELB                                A2CUSTCATEGORY
 A2CUSTBRIS        A2MANUFACTURER      DWTIME
 A2CUSTMELB        A2SHIPPING
 A2SALEBRIS        A2PRODCATEGORY
